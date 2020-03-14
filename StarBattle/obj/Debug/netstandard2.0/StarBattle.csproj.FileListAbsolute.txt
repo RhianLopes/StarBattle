@@ -1,0 +1,8 @@
+C:\Users\rhian.costa\source\repos\ExerciciosCSharp\StarBattle\StarBattle\obj\Debug\netstandard2.0\StarBattle.csproj.CoreCompileInputs.cache
+C:\Users\rhian.costa\source\repos\ExerciciosCSharp\StarBattle\StarBattle\obj\Debug\netstandard2.0\StarBattle.AssemblyInfoInputs.cache
+C:\Users\rhian.costa\source\repos\ExerciciosCSharp\StarBattle\StarBattle\obj\Debug\netstandard2.0\StarBattle.AssemblyInfo.cs
+C:\Users\rhian.costa\source\repos\ExerciciosCSharp\StarBattle\StarBattle\bin\Debug\netstandard2.0\StarBattle.deps.json
+C:\Users\rhian.costa\source\repos\ExerciciosCSharp\StarBattle\StarBattle\bin\Debug\netstandard2.0\StarBattle.dll
+C:\Users\rhian.costa\source\repos\ExerciciosCSharp\StarBattle\StarBattle\bin\Debug\netstandard2.0\StarBattle.pdb
+C:\Users\rhian.costa\source\repos\ExerciciosCSharp\StarBattle\StarBattle\obj\Debug\netstandard2.0\StarBattle.dll
+C:\Users\rhian.costa\source\repos\ExerciciosCSharp\StarBattle\StarBattle\obj\Debug\netstandard2.0\StarBattle.pdb

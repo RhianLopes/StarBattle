@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rhian.costa\\Desktop\\StarBattle\\StarBattle\\StarBattle1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rhian.costa\\Desktop\\StarBattle\\StarBattle\\StarBattle1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rhian.costa\\Desktop\\StarBattle\\StarBattle\\StarBattle1.csproj",
+        "projectName": "StarBattle1",
+        "projectPath": "C:\\Users\\rhian.costa\\Desktop\\StarBattle\\StarBattle\\StarBattle1.csproj",
+        "packagesPath": "C:\\Users\\rhian.costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rhian.costa\\Desktop\\StarBattle\\StarBattle\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rhian.costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.6": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.6": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            }
+          }
+        }
+      }
+    }
+  }
+}
